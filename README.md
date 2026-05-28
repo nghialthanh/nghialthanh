@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=nghialthanh&count_private=true&theme=vue&include_all_commits=true&card_width=500) 
-![Stats](https://leetcode.card.workers.dev/nghialthanh?theme=default&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nghialthanh?theme=default&font=source_code_pro)
