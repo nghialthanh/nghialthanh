@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nghialthanh&show_icons=true&count_private=true&include_all_commits=true&theme=vue&card_width=500)
+## 📊 Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nghialthanh&show_icons=true&count_private=true&include_all_commits=true&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghialthanh&layout=donut&theme=vue" />
+</p>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nghialthanh?theme=default&font=source_code_pro)
