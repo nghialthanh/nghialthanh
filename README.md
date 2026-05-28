@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=nghialthanh&count_private=true&theme=vue&include_all_commits=true&card_width=500) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nghialthanh&show_icons=true&count_private=true&include_all_commits=true&theme=vue&card_width=500)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nghialthanh?theme=default&font=source_code_pro)
