@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nghialthanh?theme=default&font=source_code_pro)
+![Cursor Rules: A (96%)]({https://img.shields.io/badge/Cursor%20Rules-A%20(96%25)-brightgreen})
